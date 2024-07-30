@@ -12,6 +12,4 @@ entries:
   - title: all posts
     post_list:
       limit: infinite
-      show_more: true
-      show_more_text: none
-      show_more_url: none
+     
