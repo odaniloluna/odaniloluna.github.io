@@ -17,7 +17,7 @@ entries:
       show_more_url: archive.html
 
   - title: posts by category
-    post_list:
+    post_list: false
       category: example2
       show_more: true
       show_more_text: See more posts...
