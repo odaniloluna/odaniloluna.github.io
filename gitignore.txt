@@ -1,0 +1,6 @@
+_site
+vendor
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+docker-compose.yml
