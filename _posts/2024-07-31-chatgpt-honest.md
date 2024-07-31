@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ChatGPT Is Pretty Honest About Itself
+title: the sun still shine
 slug: chatgpt-honest
 ---
 
