@@ -1,7 +1,7 @@
 ---
 id: 91
 title: Fuzzing for obfuscated phone numbers
-date: 2017-06-29T11:55:33+05:30
+date: 2024-07-31T11:55:33+05:30
 author: Karan Saini
 layout: post
 guid: https://www.karansaini.com/?p=91
