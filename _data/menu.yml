@@ -9,7 +9,7 @@ entries:
         url: https://X.com/sv3zr
       - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
 
-  - title: all posts
+  - title: devaneios
     post_list:
       limit: 1000
       show_more: true
