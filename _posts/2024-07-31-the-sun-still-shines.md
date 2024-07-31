@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The Stack Overflow Antipattern
-slug: stack-overflow-antipattern
+title: The Sun Still Shines
+slug: the-sun-still-shines
 image:
   path: /assets/images/comics/001-stack-overflow-antipattern.png
   height: 1483
