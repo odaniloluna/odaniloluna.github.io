@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the sun still shine
+title: the sun still shines
 slug: chatgpt-honest
 ---
 
