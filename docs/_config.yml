@@ -38,7 +38,7 @@ header_pages:
 #  - writing.md
 
 style: light
-footer: 'follow me on <a href="https://twitter.com/squeal">twitter</a> or <a rel="me" href="https://freeradical.zone/@karan">mastodon</a> - <a href="https://muckrack.com/karan-saini">muckrack</a>'
+footer: 'follow me on <a href="https://twitter.com/sqv3zr">twitter</a> or <a rel="me" href="https://freeradical.zone/@karan">mastodon</a> - <a href="https://muckrack.com/karan-saini">muckrack</a>'
 # google_analytics: UA-NNNNNNNN-N
 
 plugins:
