@@ -1,7 +1,8 @@
 title: danilo luna
 email: odaniloluna@gmail.com
-description: riggraz's thoughts
-baseurl: ""
+description: >- # this means to ignore newlines until "baseurl:"
+  Probabilistic machine learning PhD student at the University of Bristol. Research interests include Bayesian inference, deep learning, and probabilistic programming.
+baseurl: / # the subpath of your site, e.g. /blog
 url: "https://daniloluna.xyz/"
 github_username:  odaniloluna
 
