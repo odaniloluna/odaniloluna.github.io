@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Sun Still Shines
+title: THE SUN STILL SHINES
 slug: the-sun-still-shines
 image:
   path: /assets/images/comics/001-stack-overflow-antipattern.png
