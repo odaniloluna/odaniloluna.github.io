@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: [ database ]
+  - title: |database|
     post_list:
       limit: 10
       show_more: true
