@@ -1,8 +1,8 @@
 title: danilo luna
+description: "photographer - EXP & ETC ... " # description of the site (multiple lines allowed)
 email: odaniloluna@gmail.com
 url: "https://daniloluna.xyz/"
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description: "photographer - EXP & ETC ... " # description of the site (multiple lines allowed)
 
 github_username:  odaniloluna
 
