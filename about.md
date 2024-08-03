@@ -1,9 +1,8 @@
 ---
 layout: page
-title: about me
+title: info
 ---
-I spent my free time doing low-level programming because I believe there is so much alpha in it.
+DANILO LUNA (b.1990) 
 
-(currently-learning)
-- C
-- Django
+HI@DANILOLUNA.XYZ
+
