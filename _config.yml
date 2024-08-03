@@ -4,8 +4,7 @@ email: odaniloluna@gmail.com # email of site's author
 url: https://daniloluna.xyz/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  Hi! My name is seongho and I am a physics student trying to become the most cracked engineer in the world. I am currently learning C and Django.
-  Oh! I love manta rays by the way.
+  hello! photographer / EXP & ETC ...
 
 permalink: /:slug.html
 
