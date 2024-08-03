@@ -8,4 +8,5 @@ entries:
       show_more: true
       show_more_text: archive...
       show_more_url: archive.html
+ entries:
   - title: "keep in touch: <a href='/newsletter.html'>newsletter</a>
