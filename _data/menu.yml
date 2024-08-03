@@ -1,9 +1,12 @@
+description: > # description of the site (multiple lines allowed)
+  Hi! My name is seongho and I am a physics student trying to become the most cracked engineer in the world. I am currently learning C and Django.
+  Oh! I love manta rays by the way.
 entries:
-- title: + info
-  entries:
-- title: e-mail
-  url: mailto:odaniloluna@gmail.com
-- title: "keep in touch: <a href='/newsletter.html'>newsletter</a>"
+title: + info
+entries:
+title: e-mail
+url: mailto:odaniloluna@gmail.com
+title: "keep in touch: <a href='/newsletter.html'>newsletter</a>"
 
-- title: database
+title: database
 post_list: true
