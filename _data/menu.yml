@@ -9,11 +9,4 @@ entries:
       show_more_text: see archive...
       show_more_url: archive.html
 
-  - title: (MantaLab)
-
-  - title: (recent-reading)
-    entries:
-      - title: the-c-programming-language
-        url: https://www.goodreads.com/book/show/515601.The_C_Programming_Language
-      - title: ai-ethics
-        url: https://www.goodreads.com/book/show/52563234-ai-ethics
+  
