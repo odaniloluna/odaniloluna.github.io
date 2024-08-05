@@ -2,12 +2,10 @@
 layout: page
 title: info
 ---
-<p class="description" style="text-align: justify;">
-  
+ 
 DANILO LUNA (b.1990) 
 
 Education
-
 
 (2020 - 2023) - MA / VISUAL ARTS / UNIVERSIDADE ESTADUAL DE CAMPINAS.
 
