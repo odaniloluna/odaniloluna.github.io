@@ -4,7 +4,7 @@
 entries:
   - title: (database)
     post_list:
-      limit: 20
+      limit: 100
       show_more: true
       show_more_text: archive...
       show_more_url: archive.html
