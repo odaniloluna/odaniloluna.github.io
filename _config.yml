@@ -5,7 +5,7 @@ url: https://daniloluna.xyz/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
     
- | | | | | | PHOTOGRAPHER & IMAGE EXPLORER | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+|  PHOTOGRAPHER & IMAGE EXPLORER | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 
 permalink: /:slug.html
 
