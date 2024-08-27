@@ -3,8 +3,7 @@ author: danilo luna # name of site's author
 email: odaniloluna@gmail.com # email of site's author
 url: https://daniloluna.xyz/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
-description:   # description of the site (allow multiple lines)
-PHOTOGRAPHER & IMAGE EXPLORER
+description: PHOTOGRAPHER & IMAGE EXPLORER 
 
 permalink: /:slug.html
 
