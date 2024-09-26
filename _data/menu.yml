@@ -5,6 +5,6 @@ entries:
   - title: |database|
     post_list:
       limit: 0
-      show_more: true
+      show_more: 
       show_more_text: (...)
       show_more_url: archive.html
