@@ -3,6 +3,7 @@
 
 entries:
   - title: (database)
+  - title: (entries)
     post_list:
       limit: 0
       show_more: true
