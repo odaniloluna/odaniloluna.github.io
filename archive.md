@@ -1,4 +1,4 @@
 ---
-layout: archive
-title: entries
+layout: 
+title: 
 ---
