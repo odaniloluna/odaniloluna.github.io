@@ -4,13 +4,14 @@ title: #2025
 slug: #2025
 ---
 ---
-<p class="description" style="text-align: justify;">
-THE END HAS NO END.
+<p class="description" style="text-align: center;">
   <br>
   <br> 
+  LUIGI MANIA
 <img src="/assets/SV3ZRV3RS3-07.gif " />
   <br>
   <br>
+  ARE NFTS BACK?
 <img src="/assets/SV3ZRV3RS3-08.gif " />
   <br>
   <br>
