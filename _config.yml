@@ -1,10 +1,10 @@
-title: danilo luna # name of the site
+title: SV3ZR # name of the site
 author: danilo luna # name of site's author
-email: odaniloluna@gmail.com # email of site's author
-url: https://www.daniloluna.xyz/ # root address of the site
+email: hi.sv3zr@gmail.com # email of site's author
+url: https://www.sv3zr.xyz/ # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-   PHOTOGRAPHER & IMAGE EXPLORER
+   PIXEL EXPLORER
    
 permalink: /:slug.html
 
