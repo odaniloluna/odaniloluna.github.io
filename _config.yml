@@ -27,7 +27,7 @@ plugins:
   - jekyll-seo-tag
 
 ---
-layout: post
+layout: 
 title: #01
 slug: #01
 ---
