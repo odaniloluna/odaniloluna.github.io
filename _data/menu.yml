@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: (GIFBASE)
+  - title: (GIFVAULT)
     post_list:
       limit: 1
       show_more: true
