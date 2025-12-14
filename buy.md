@@ -1,0 +1,9 @@
+---
+layout: buy
+title: 
+---
+<div style="margin-top: 8rem;">
+<hr data-content="">
+<p style="text-align: center;">
+<a href="https://objkt.com/users/tz1PTLtD5jsC78TE1w7Mfav2VfaEYTtYRTrz">BUY HERE</a>
+</div>
