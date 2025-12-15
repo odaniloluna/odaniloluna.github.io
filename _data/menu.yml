@@ -4,7 +4,7 @@
 entries:
   - title: (GIFVAULT)
     post_list:
-      limit: 1
+      limit: 2
       show_more: true
       show_more_text: (...)
       show_more_url: archive.html
